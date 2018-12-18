@@ -32,4 +32,5 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Misc. 
 
-[I love asian food](https://en.wikipedia.org/wiki/Asian_cuisine) 
+[I love Asian food](https://en.wikipedia.org/wiki/Asian_cuisine) 
+[...and Mexican too!](https://en.wikipedia.org/wiki/Mexican_cuisine)
