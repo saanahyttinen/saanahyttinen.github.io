@@ -5,6 +5,7 @@ layout: default
 ## Introduction
 
 A linguistics student at the University of Helsinki. Loves food, travelling and languages. Enjoys exploring new things and places.
+
 ## Find me on
 
 [GitHub](https://github.com/saanahyttinen/saanahyttinen.github.io)
@@ -12,6 +13,10 @@ A linguistics student at the University of Helsinki. Loves food, travelling and 
 ## Contact
 
 My email address is of the form first_name.last_name@helsinki.fi. 
+
+## CV
+
+[My CV on Overleaf](https://www.overleaf.com/read/pzsjbpdhpcyb)
 
 ## Courses I've Taken
 
