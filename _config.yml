@@ -1,6 +1,6 @@
 title: Saana Hyttinen
-logo: /assets/img/me.jpg
-description: This is Mouse Mousekewitz' homepage.
+logo: https://images.pexels.com/photos/34950/pexels-photo.jpg?auto=compress&cs=tinysrgb&h=750&w=1260
+description: This is Saana Hyttinen's homepage.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
