@@ -4,11 +4,10 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+A linguistics student at the University of Helsinki. Loves food, travelling and languages. Enjoys exploring new things and places.
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[GitHub](https://github.com/saanahyttinen/saanahyttinen.github.io)
 
 ## Contact
 
@@ -16,12 +15,16 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Command-line course](https://courses.helsinki.fi/fi/kik-lg218/126710126), fall 2018
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Maailman kielet ja kielitypologia](https://courses.helsinki.fi/fi/kik-lg204/124793941), fall 2018
+
+[Fonologian jatkokurssi](https://courses.helsinki.fi/fi/kik-lg201/124793884), fall 2018
 
 ## Projects
 
+[cmdline-course](https://github.com/saanahyttinen/cmdline-course), Project on the Command-line Course
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[I love asian food](https://en.wikipedia.org/wiki/Asian_cuisine) 
